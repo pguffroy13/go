@@ -6,7 +6,7 @@
 
 ```console
 cd /var/tmp/
-wget -k https://depot:443/artifactory/pypi-local-pas-dre-green-team/postgresql/tools/metrics/go1.20.linux-amd64.tar.gz
+wget -k https://depot:443/.../go1.20.linux-amd64.tar.gz
 ```
 
 - Install package
